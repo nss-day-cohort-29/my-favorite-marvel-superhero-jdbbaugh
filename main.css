@@ -1,0 +1,39 @@
+
+
+* {
+    background-color: #FFCB05
+    
+}
+
+
+
+body p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 21px;
+  color: #00274C;;
+  border: 4px solid #0066FF;  
+  background-color:#FFCC33; 
+  padding: 10px;  
+  margin-top:5px;  
+  margin-bottom:5px;  
+  margin-left:20px;  
+  margin-right:20px;  
+  
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 65px;
+    font-family: 'Monoton', cursive;
+    color: #00274C;;
+    text-shadow: 1px 1px 0px #ededed, 4px 4px 0px rgba(0,0,0,0.15);
+}
+
